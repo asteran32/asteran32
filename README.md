@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aster
-- 👀 I’m interested in BE and ML
-- 🌱 I’m currently learning about ML, DL
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning about ML and Computer vision
 - 💞️ I’m looking to collaborate on any opensource
 
 <!---
